@@ -1,0 +1,28 @@
+{
+  "receipt": [
+    {"name":"Truffle fries",
+    "quantity":"2",
+    "price":"17.80"
+    },
+    {"name":"Steak and fries",
+    "quantity":"1",
+    "price":"18.90"
+    },
+    {"name":"Juicy beef burger",
+    "quantity":"1",
+    "price":"9.99"
+    },
+    {"name":"Seafood risotto",
+    "quantity":"1",
+    "price":"17.99"
+    },
+    {"name":"Canele",
+    "quantity":"1",
+    "price":"7.90"
+    },
+    {"name":"Mojito",
+    "quantity":"1",
+    "price":"11.90"
+    },
+  ]
+}
